@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SE__Pudding_2023/static/css/main.9047fb18.css",
+    "main.js": "/SE__Pudding_2023/static/js/main.c6991d30.js",
+    "static/js/787.a726f54c.chunk.js": "/SE__Pudding_2023/static/js/787.a726f54c.chunk.js",
+    "static/media/Pacifico-Regular.ttf": "/SE__Pudding_2023/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/Montserrat-Medium.ttf": "/SE__Pudding_2023/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Regular.ttf": "/SE__Pudding_2023/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-Black.ttf": "/SE__Pudding_2023/static/media/Montserrat-Black.08437fd0aa82576d3678.ttf",
+    "static/media/DancingScript-Bold.ttf": "/SE__Pudding_2023/static/media/DancingScript-Bold.72fc35f38c2864ca2cd5.ttf",
+    "static/media/header_logo.png": "/SE__Pudding_2023/static/media/header_logo.eb6b71cef573b4ca38dc.png",
+    "index.html": "/SE__Pudding_2023/index.html",
+    "main.9047fb18.css.map": "/SE__Pudding_2023/static/css/main.9047fb18.css.map",
+    "main.c6991d30.js.map": "/SE__Pudding_2023/static/js/main.c6991d30.js.map",
+    "787.a726f54c.chunk.js.map": "/SE__Pudding_2023/static/js/787.a726f54c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9047fb18.css",
+    "static/js/main.c6991d30.js"
+  ]
+}
