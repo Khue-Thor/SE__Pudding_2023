@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./dancingscript/DancingScript-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Pacifico";
+  font-style: normal;
+  font-weight: 400;
+  src: url('./pacifico/Pacifico-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Montserrat" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/montserrat/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/montserrat/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/montserrat/Montserrat-Black.ttf") format("truetype");
+}
+

@@ -1,0 +1,19 @@
+.header {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.header__container {
+  max-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 700px;
+  margin: 0;
+  padding: 0;
+}
